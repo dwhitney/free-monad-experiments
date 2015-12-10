@@ -1,0 +1,34 @@
+.DS_Store
+.history
+
+node_modules/
+client-target/
+target
+logs
+docker.log
+RUNNING_PID
+app-2.10
+app-2.11
+npm-debug.log
+
+# IntelliJ
+.idea/
+.idea_modules/
+
+# eclipse
+.classpath
+.project
+.scala_dependencies
+.settings
+.buildpath
+.target
+
+# Atom
+config.json
+
+# temp file
+.~*
+*~
+*.orig
+DWTODO
+
